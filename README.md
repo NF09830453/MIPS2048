@@ -1,4 +1,5 @@
 # MIPS 2048
+![Screenshot 2024-10-01 155135](https://github.com/user-attachments/assets/2c58062b-d372-4a18-a00f-9a93112e1f3c)
 
 A faithful implementation of the popular 2048 puzzle game written in MIPS assembly language, designed to run on the MARS MIPS simulator.
 
@@ -64,4 +65,4 @@ A faithful implementation of the popular 2048 puzzle game written in MIPS assemb
 - Efficient tile drawing routines
 - Automatic board refresh after moves
   
-![Screenshot 2024-10-01 155135](https://github.com/user-attachments/assets/2c58062b-d372-4a18-a00f-9a93112e1f3c)
+
